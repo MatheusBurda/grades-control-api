@@ -9,6 +9,6 @@ Usando alguns métodos HTTP, ao fazer uma requisição o usuário pode alterar n
 
 ## Tecnologias Utilizadas
 
-* [Node.js] 
-* [Express] **Framework para Node.js**
-* [Insomnia] **Consumo de endpoints**
+* Node.js 
+* Express **Framework para Node.js**
+* Insomnia **Consumo de endpoints**
